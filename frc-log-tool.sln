@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FRC Log Tool", "FRC Log Tool\FRC Log Tool.csproj", "{EB391786-11ED-4C69-ABC7-1DBEBAE1730D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB391786-11ED-4C69-ABC7-1DBEBAE1730D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB391786-11ED-4C69-ABC7-1DBEBAE1730D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB391786-11ED-4C69-ABC7-1DBEBAE1730D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB391786-11ED-4C69-ABC7-1DBEBAE1730D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {934B757A-D11B-4596-B267-E1E53D0875C3}
+	EndGlobalSection
+EndGlobal
